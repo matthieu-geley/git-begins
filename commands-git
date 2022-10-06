@@ -3,3 +3,5 @@ cloner un repo: git clone
 commandes de push: git add -all
 git commit -m "information du commit"
 git push
+
+Commande de pull: git pull
