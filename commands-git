@@ -5,3 +5,9 @@ git commit -m "information du commit"
 git push
 
 Commande de pull: git pull
+
+commande créer une branche: git branch "nom de branche"
+
+commande aller dans une branche: git checkout "nom de branche"
+
+Montrer les branches d'un repo: git branch
